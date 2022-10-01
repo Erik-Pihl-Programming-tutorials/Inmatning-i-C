@@ -1,6 +1,7 @@
 /********************************************************************************
 * scanf_s.c: Demonstration av inmatningsfunktionen scanf_s, Microsofts säkrare
-*            version av funktionen scanf. 
+*            version av funktionen scanf. OBS! Denna funktion fungerar enbart
+*            vid C-programmering i Visual Studio med kompilator MSVC! 
 * 
 *            Funktionen scanf_s har fördelen att man kan kontrollera antalet 
 *            tecken som matas in i en sträng, men innehar också samma nackdelar 
