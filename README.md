@@ -1,4 +1,4 @@
-# Inmatning-i-C
+# Inmatning i C
 Inmatning av text, heltal, flyttal och tecken via funktioner scanf, scanf_s samt fgets.
 
 Filen scanf.c demonstrerar inmatning via den enkla C-funktionen scanf.
